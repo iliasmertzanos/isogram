@@ -1,0 +1,1 @@
+C:\Users\imertzanidis\Exercism\kotlin\isogram\build\classes\kotlin\main\Isogram$Companion.class;C:\Users\imertzanidis\Exercism\kotlin\isogram\build\classes\kotlin\main\Isogram.class
